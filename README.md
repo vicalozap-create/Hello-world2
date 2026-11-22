@@ -10,12 +10,12 @@ Este es un proyecto de práctica para aprender a trabajar con Git y Markdown. Co
 - [License](#license)
 
 ## Introduction
-En este proyecto trabajamos el flujo de Git en local y en GitHub junto con la sintaxis de Markdown.
+Introducció al flux de treball amb Git en local i en GitHub i a la sintaxi de Markdown.
 ## Features
-Aquí iremos detallando las funcionalidades y el estado del proyecto.
+Introducció al flux de treball amb Git en local i en GitHub i a la sintaxi de Markdown.
 ## Installation
-Clona el repositorio en tu ordenador y abre la carpeta con Visual Studio Code.
+Clona el repositori i obre la carpeta del projecte amb VSCode.
 ## Usage
-Sigue las instrucciones de cada tarea para practicar commits, ramas y documentación.
+Segueix les tasques del guió per practicar commits, branques, merges i pull requests.
 ## License
-Consulta el archivo `LICENSE.md` para ver los términos de licencia del proyecto.
+Aquest projecte utilitza la llicència indicada a `LICENSE.md`.
