@@ -21,7 +21,9 @@ Estat de les tasques del projecte:
 * GitHub i pull requests: pendent
 
 Aquest projecte practica **Git** i *Markdown* des de la terminal. Per guardar canvis es fa servir `git commit`.
-> "Code is like humor. When you have to explain it, it's bad."
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
 | Feature | Description | Status |
 |---|---|---|
 | Repositori i gitignore | Crear el repo i ignorar la carpeta notes | Completed |
@@ -31,10 +33,18 @@ Aquest projecte practica **Git** i *Markdown* des de la terminal. Per guardar ca
 Clona el repositori i obre la carpeta del projecte amb VSCode.
 ## Usage
 Segueix les tasques del guió per practicar commits, branques, merges i pull requests.
-Markdown
+
 ```python
-nom = "MarkdownProject"
-print("Hola,", nom)
+# This is a simple Python function to add two numbers
+def add_numbers(a, b):
+    """Return the sum of a and b."""
+    return a + b
+
+# Example usage
+result = add_numbers(5, 7)
+print("The sum is:", result)
+```
 
 ## License
 Aquest projecte utilitza la llicència indicada a `LICENSE.md`.
+
