@@ -22,6 +22,11 @@ Estat de les tasques del projecte:
 
 Aquest projecte practica **Git** i *Markdown* des de la terminal. Per guardar canvis es fa servir `git commit`.
 > "Code is like humor. When you have to explain it, it's bad."
+| Feature | Description | Status |
+|---|---|---|
+| Repositori i gitignore | Crear el repo i ignorar la carpeta notes | Completed |
+| README i seccions | Taula de continguts, enllaços i imatge | In Progress |
+| GitHub i pull requests | Pujar el projecte i fer merge amb pull request | Completed |
 ## Installation
 Clona el repositori i obre la carpeta del projecte amb VSCode.
 ## Usage
