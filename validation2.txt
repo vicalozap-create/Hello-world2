@@ -1,0 +1,166 @@
+commit 81586f5f7b943795c129ec37e106427cbd600085
+Merge: 98ad834 59a4720
+Author: Victoria20008 <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 22:55:43 2026 +0100
+
+    Merge pull request #2 from vicalozap-create/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 59a47201a779ae530deefd1507f5c7054edfc6b1
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 22:49:36 2026 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 98ad834b5c59fa35afbdf4d330629653778dbd84
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 22:33:26 2026 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 139 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 139 insertions(+)
+
+commit 195c3287820eec25150f05c5e81d33b7b992e3b4
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 22:30:36 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 8 +++-----
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+
+commit dc2da4ac2948b93ffc323ca51ddc9c19a6466cc9
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 22:23:29 2026 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 36e8cf9bcc2a828b5164d19f2b5c0ea90c873412
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 22:19:32 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 802ef161e260823f5886b9ae6d4b0e29ebcaf3b1
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 21:23:33 2026 +0100
+
+    Add project logo to README
+
+ README.md                 |   2 +-
+ images/LEGO_logo.svg.webp | Bin 27382 -> 0 bytes
+ images/logo.png           | Bin 0 -> 80363 bytes
+ 3 files changed, 1 insertion(+), 1 deletion(-)
+
+commit 2464ed8db94b2633c315c13ac29da3ac28fd3ab6
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 21:21:35 2026 +0100
+
+    Add project logo to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a1fae777eb78b51c87a796bdc3269b1044fa2c4c
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 21:18:57 2026 +0100
+
+    Add project logo to README
+
+ .DS_Store                 | Bin 0 -> 6148 bytes
+ images/.DS_Store          | Bin 0 -> 6148 bytes
+ images/LEGO_logo.svg.webp | Bin 0 -> 27382 bytes
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 33f3ff2bc0023a12acf5fb20264442f762c90c4f
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 20:46:16 2026 +0100
+
+    Add sections to README
+
+ README.md | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+commit 1fdeea47d76af2c583fd7b28d9050f99ab7819a2
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 20:42:12 2026 +0100
+
+    Add sections to README
+
+ README.md | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit da01d6e62c8ab516f85c03ece6ede57c2a5f0b06
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 20:36:07 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 9ef365335f4af25e00b0fc2130763f703321c284
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 20:29:45 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit 277953f613fa7ed4c86a979db1874e4f4922fce0
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 20:20:17 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit aa690ed30f3543f92f529de2ae19d0f303b4169e
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 20:01:33 2026 +0100
+
+    Add .gitignore to ignore notes directory
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit d7dfbc937b913448726d20a1e2ec317cbbcc273b
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 20:00:11 2026 +0100
+
+    Initial commit with .gitignore
+
+ notes/.gitignore | 0
+ notes/notes.txt  | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 482a926c475e26dcb9b1c31955b2c60dd8e5fe4a
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 19:55:14 2026 +0100
+
+    Primer texto
+
+ notes/.gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1d82851d8c5d482c14ebf6bc4da5cb30c10f94c5
+Author: victoria <vicalozap@iespoblenou.org>
+Date:   Sun Nov 22 19:50:03 2026 +0100
+
+    Eliminada
+
+ notes/notes.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
