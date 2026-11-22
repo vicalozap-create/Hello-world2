@@ -26,12 +26,10 @@ Aquest projecte practica **Git** i *Markdown* des de la terminal. Per guardar ca
 Clona el repositori i obre la carpeta del projecte amb VSCode.
 ## Usage
 Segueix les tasques del guió per practicar commits, branques, merges i pull requests.
+Markdown
 ```python
-def saludar(nom):
-    print(f"Hola, {nom}")
-
-saludar("MarkdownProject")
-Guarda `README.md` con `Cmd + S`.
+nom = "MarkdownProject"
+print("Hola,", nom)
 
 ## License
 Aquest projecte utilitza la llicència indicada a `LICENSE.md`.
